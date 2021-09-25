@@ -93,11 +93,11 @@ In bot settings.
 Contributions are welcome.
 
 ## Contact
-You can contact me [@InFoTelGroup](https://tx.me/InFoTelGroup).
+You can contact me [@Oxyver_Owner](https://tx.me/Oxyver_Owner).
 
 ## Thanks
 
-Thanks to [@odysseusmax](https://tx.me/odysseusmax) for his [animated-lamp](https://github.com/odysseusmax/animated-lamp) Bot.
+Thanks to [@Oxyver_Owner](https://tx.me/Oxyver_Owner) for his [animated-lamp](https://github.com/odysseusmax/animated-lamp) Bot.
 
 Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
 
